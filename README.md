@@ -2,4 +2,4 @@
 Source codes for manuscript: APM-D-19-02565 (An Ito–Taylor weak 3.0 method for stochastic dynamics of nonlinear systems).
 https://doi.org/10.1016/j.apm.2020.05.014.
 
-The source codes can be found in File Exchange - Matlab Central
+The source codes can also be found in File Exchange - Matlab Central
